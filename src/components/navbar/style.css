@@ -1,0 +1,30 @@
+.logo{
+    max-width: 100px;
+    padding-top: 12px;
+}
+.svg20{
+    width: 20px;
+    height: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 8px;
+}
+.nav-link{
+    display: flex;
+    flex-direction: row;
+    padding: 16px;
+}
+
+.dropdown-toggle::after {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.top-bar{
+    box-shadow: 0 0px 0px 1px rgb(237 237 237);
+}
+.active{
+    color:#1391d2;
+}
+svg.active{
+    fill:#1391d2;
+}

@@ -1,0 +1,65 @@
+.box{
+    margin: 32px 0px;
+    background-color: #fff;
+    border-radius: 2px;
+    box-shadow: 0 1px 4px rgb(41 51 57 / 50%);
+}
+.box-top{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 15px;
+}
+.back-arrow{
+    position: absolute;
+    left: 0px;
+    padding: 0px 35px;
+}
+.login-logo img{
+    max-width: 100px;
+}
+
+.box-contain{
+    padding:20px
+}
+label{
+    font-weight: 500;
+}
+.login-title{
+    font-size: 24px;
+}
+.btn-social{
+    font-weight: 500;
+    margin-top: 15px !important;
+    height: 45px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+}
+.btn-social svg{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 45px;
+}
+.btn-social span{
+    padding-left: 15px;
+}
+.social-logins{
+    padding:20px
+}
+.box-footer{
+    padding: 5px 24px;
+}
+footer{
+    padding: 5px 20px;
+}
+
+footer h2{
+    font-size: 20px;
+}
+footer .btn-signup{
+    color: #000;
+    font-weight: 500;
+}
